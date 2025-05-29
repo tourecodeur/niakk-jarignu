@@ -116,7 +116,7 @@
                     <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Voir plus</a>
                 </div>
             </div>
         </div>
@@ -154,7 +154,7 @@
                         <img class="img-fluid mb-4" src="img/icon-1.png" alt="">
                         <h4 class="mb-3">Natural Process</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Voir plus</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -162,7 +162,7 @@
                         <img class="img-fluid mb-4" src="img/icon-2.png" alt="">
                         <h4 class="mb-3">Organic Produits</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Voir plus</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -170,7 +170,7 @@
                         <img class="img-fluid mb-4" src="img/icon-3.png" alt="">
                         <h4 class="mb-3">Biologically Safe</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Voir plus</a>
                     </div>
                 </div>
             </div>

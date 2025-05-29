@@ -70,7 +70,7 @@
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
-                    <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
+                    <!-- <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-search text-body"></small>
                     </a>
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
@@ -78,7 +78,8 @@
                     </a>
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-shopping-bag text-body"></small>
-                    </a>
+                    </a> -->
+                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
                 </div>
             </div>
         </nav>
@@ -149,7 +150,7 @@
                     <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Read More</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Voir plus</a>
                 </div>
             </div>
         </div>
@@ -170,7 +171,7 @@
                         <img class="img-fluid mb-4" src="img/icon-1.png" alt="">
                         <h4 class="mb-3">Natural Process</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Voir plus</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -178,7 +179,7 @@
                         <img class="img-fluid mb-4" src="img/icon-2.png" alt="">
                         <h4 class="mb-3">Organic Produits</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Voir plus</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -186,7 +187,7 @@
                         <img class="img-fluid mb-4" src="img/icon-3.png" alt="">
                         <h4 class="mb-3">Biologically Safe</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
-                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Read More</a>
+                        <a class="btn btn-outline-primary border-2 py-2 px-4 rounded-pill" href="">Voir plus</a>
                     </div>
                 </div>
             </div>
@@ -226,7 +227,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-1.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -247,7 +248,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-2.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -268,7 +269,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-3.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -289,7 +290,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-4.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -310,7 +311,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-5.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -331,7 +332,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-6.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -352,7 +353,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-7.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -373,7 +374,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-8.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -391,7 +392,7 @@
                             </div>
                         </div>
                         <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
-                            <a class="btn btn-primary rounded-pill py-3 px-5" href="">Browse More Produits</a>
+                            <a class="btn btn-primary rounded-pill py-3 px-5" href="">Parcourir plus de produits</a>
                         </div>
                     </div>
                 </div>
@@ -401,7 +402,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-1.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -422,7 +423,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-2.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -443,7 +444,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-3.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -464,7 +465,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-4.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -485,7 +486,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-5.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -506,7 +507,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-6.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -527,7 +528,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-7.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -548,7 +549,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-8.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -576,7 +577,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-1.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -597,7 +598,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-2.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -618,7 +619,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-3.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -639,7 +640,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-4.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -660,7 +661,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-5.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -681,7 +682,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-6.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -702,7 +703,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-7.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -723,7 +724,7 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-8.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
@@ -756,11 +757,11 @@
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-md-7 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-5 text-white mb-3">Visit Our Firm</h1>
+                    <h1 class="display-5 text-white mb-3">Rencontrez notre équipe</h1>
                     <p class="text-white mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
                 </div>
                 <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="">Visit Now</a>
+                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="">Prendre un rendez-vous</a>
                 </div>
             </div>
         </div>
