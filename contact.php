@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Foody - Organic Food Website Template</title>
+    <title>Niakk Jarignu</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/logo.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,11 +43,11 @@
     <div class="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
         <div class="top-bar row gx-0 align-items-center d-none d-lg-flex">
             <div class="col-lg-6 px-5 text-start">
-                <small><i class="fa fa-map-marker-alt me-2"></i>123 Street, New York, USA</small>
-                <small class="ms-4"><i class="fa fa-envelope me-2"></i>info@example.com</small>
+                <small><i class="fa fa-map-marker-alt me-2"></i>15001, Dakar, sénégal</small>
+                <small class="ms-4"><i class="fa fa-envelope me-2"></i>niakkjarignu@gmail.com</small>
             </div>
             <div class="col-lg-6 px-5 text-end">
-                <small>Suivez-nous:</small>
+                <small>Suivez-nous :</small>
                 <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
@@ -57,7 +57,7 @@
 
         <nav class="navbar navbar-expand-lg navbar-light py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
             <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
-                <h1 class="fw-bold text-primary m-0">F<span class="text-secondary">oo</span>dy</h1>
+                <h1 class="fw-bold text-primary m-0">NIAKK <span class="text-secondary">JARIGNU</span></h1>
             </a>
             <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -70,7 +70,7 @@
                     <a href="contact.php" class="nav-item nav-link active">Contact</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
-                    <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
+                    <!-- <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-search text-body"></small>
                     </a>
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
@@ -78,7 +78,8 @@
                     </a>
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-shopping-bag text-body"></small>
-                    </a>
+                    </a> -->
+                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
                 </div>
             </div>
         </nav>
