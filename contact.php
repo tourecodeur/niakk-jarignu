@@ -111,12 +111,12 @@
             <div class="row g-5 justify-content-center">
                 <div class="col-lg-5 col-md-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="bg-primary text-white d-flex flex-column justify-content-center h-100 p-5">
-                        <h5 class="text-white">Call Us</h5>
+                        <h5 class="text-white">Téléphone</h5>
                         <p class="mb-5"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <h5 class="text-white">Email Us</h5>
-                        <p class="mb-5"><i class="fa fa-envelope me-3"></i>info@example.com</p>
-                        <h5 class="text-white">Office Address</h5>
-                        <p class="mb-5"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
+                        <h5 class="text-white">Email</h5>
+                        <p class="mb-5"><i class="fa fa-envelope me-3"></i>niakkjarignu@gmail.com</p>
+                        <h5 class="text-white">Adresse</h5>
+                        <p class="mb-5"><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar, sénégal</p>
                         <h5 class="text-white">Suivez-nous</h5>
                         <div class="d-flex pt-2">
                             <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
