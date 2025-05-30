@@ -49,8 +49,8 @@
           <div class="social-input-containers">
             <input
               type="text"
-              name="offre"
-              class="input text-center text-uppercase fw-bold bg-light"
+              name="commande"
+              class="input text-center text-light text-uppercase fw-bold bg-primary"
               value="Informations"
               readonly
             />
@@ -59,43 +59,56 @@
             <input
               type="text"
               name="nom"
-              class="input"
-              placeholder="Entrer votre Nom..."
+              class="input fw-bold"
+              placeholder="Saisir votre Nom..."
             />
           </div>
           <div class="social-input-containers">
             <input
               type="text"
               name="prenom"
-              class="input"
-              placeholder="Entrer votre Prénom..."
-            />
-          </div>
-          <div class="social-input-containers">
-            <input
-              type="email"
-              name="email"
-              class="input"
-              placeholder="Entrer votre Email..."
+              class="input fw-bold"
+              placeholder="Saisir votre Prénom..."
             />
           </div>
           <div class="social-input-containers">
             <input
               type="tel"
               name="telephone"
-              class="input"
-              placeholder="Entrer votre numéro téléphone..."
+              class="input fw-bold"
+              placeholder="Saisir votre numéro téléphone..."
             />
           </div>
           <div class="social-input-containers">
             <input
               type="text"
               name="adresse"
-              class="input"
-              placeholder="Entrer votre adresse..."
+              class="input text-secondary fw-bold"
+              placeholder="Saisir votre adresse..."
             />
           </div>
-          <input type="submit" value="ENVOYER" class="btn text-secondary bg-light fw-bold w-100" />
+          <div class="col-12 col-sm-12 mt-2">
+            <select class="form-select bg-secondary text-light border-2 border-light fw-bold" id="aliment" name="aliment" style="height: 48px;">
+              <option selected>Choisir un aliment</option>
+              <option value="Banane">Banane</option>
+              <option value="Fraise">Fraise</option>
+              <option value="Piment">Piment</option>
+              <option value="Tomate">Tomate</option>
+              <option value="Ananas">Ananas</option>
+              <option value="Pomme de Terre">Pomme de Terre</option>                            
+              <option value="Concombre">Concombre</option>
+              <option value="Tomate Mûr">Tomate Mûr</option>
+            </select>
+          </div>
+          <div class="social-input-containers">
+            <input
+              type="number"
+              name="quantite"
+              class="input text-light"
+              placeholder="Quantité en Kilogramme..."
+            />
+          </div>
+          <input type="submit" value="ENVOYER" class="btn text-secondary border-secondary bg-light fw-bold w-100" />
         </form>
       </div>
       <div class="contact-info">
@@ -127,12 +140,6 @@
       </div>
     </div>
   </div>
-
-
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
-
-
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>

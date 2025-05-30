@@ -97,7 +97,7 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 mb-5 animated slideInDown">Organic Food Is Good For Health</h1>
+                                    <h1 class="display-2 mb-5 animated slideInDown">Les aliments biologiques sont bons pour la santé</h1>
                                     <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Produits</a>
                                     <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
                                 </div>
@@ -111,7 +111,7 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 mb-5 animated slideInDown">Natural Food Is Always Healthy</h1>
+                                    <h1 class="display-2 mb-5 animated slideInDown">Les aliments naturels sont toujours sains</h1>
                                     <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Produits</a>
                                     <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
                                 </div>
@@ -145,7 +145,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4">Best Organic Fruits And Vegetables</h1>
+                    <h1 class="display-5 mb-4">Meilleurs fruits et légumes biologiques</h1>
                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
@@ -162,14 +162,14 @@
     <div class="container-fluid bg-light bg-icon my-5 py-6">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-5 mb-3">Our Features</h1>
+                <h1 class="display-5 mb-3">Notre Mission</h1>
                 <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="img/icon-1.png" alt="">
-                        <h4 class="mb-3">Natural Process</h4>
+                        <h4 class="mb-3">Processus naturel</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
 
                     </div>
@@ -177,7 +177,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="img/icon-2.png" alt="">
-                        <h4 class="mb-3">Organic Produits</h4>
+                        <h4 class="mb-3">Produits biologiques</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
 
                     </div>
@@ -185,7 +185,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="img/icon-3.png" alt="">
-                        <h4 class="mb-3">Biologically Safe</h4>
+                        <h4 class="mb-3">Biologiquement sûr</h4>
                         <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
 
                     </div>
@@ -202,20 +202,20 @@
             <div class="row g-0 gx-5 align-items-end">
                 <div class="col-lg-6">
                     <div class="section-header text-start mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                        <h1 class="display-5 mb-3">Our Produits</h1>
+                        <h1 class="display-5 mb-3">Nos Produits</h1>
                         <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 text-start text-lg-end wow slideInRight" data-wow-delay="0.1s">
                     <ul class="nav nav-pills d-inline-flex justify-content-end mb-5">
                         <li class="nav-item me-2">
-                            <a class="btn btn-outline-primary border-2 active" data-bs-toggle="pill" href="#tab-1">Vegetable</a>
+                            <a class="btn btn-outline-primary border-2 active" data-bs-toggle="pill" href="#tab-1">Végétale</a>
                         </li>
                         <li class="nav-item me-2">
                             <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-2">Fruits </a>
                         </li>
                         <li class="nav-item me-0">
-                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-3">Fresh</a>
+                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-3">Fraîche</a>
                         </li>
                     </ul>
                 </div>
@@ -230,9 +230,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Tomates fraîches</a>
+                                    <span class="text-primary me-1">250F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -251,9 +251,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Ananas</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -272,16 +272,16 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Piment</a>
+                                    <span class="text-primary me-1">200F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href="details_niebe.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_piment.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href="details_niebe.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_piment.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
@@ -293,9 +293,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Fraise</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -314,9 +314,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Concombre</a>
+                                    <span class="text-primary me-1">300F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -335,9 +335,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="details_tomatemur.php">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="details_tomatemur.php">Tomate Mûr</a>
+                                    <span class="text-primary me-1">275F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -356,9 +356,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Pomme de Terre</a>
+                                    <span class="text-primary me-1">300F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -377,9 +377,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Banane</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -405,9 +405,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Tomates fraîches</a>
+                                    <span class="text-primary me-1">250F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -426,9 +426,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Ananas</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -447,16 +447,16 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Piment</a>
+                                    <span class="text-primary me-1">200F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href="details_niebe.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_piment.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href="details_niebe.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_piment.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
@@ -468,9 +468,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Fraise</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -489,9 +489,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Concombre</a>
+                                    <span class="text-primary me-1">300F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -510,9 +510,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="details_tomatemur.php">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="details_tomatemur.php">Tomate Mûr</a>
+                                    <span class="text-primary me-1">275F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -531,9 +531,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Pomme de Terre</a>
+                                    <span class="text-primary me-1">300F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -552,9 +552,9 @@
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Banane</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -567,131 +567,131 @@
                             </div>
                         </div>
                         <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
-                            <a class="btn btn-primary rounded-pill py-3 px-5" href="">Parcourir plus de produits</a>
+                            <a class="btn btn-primary rounded-pill py-3 px-5" href="produit.php">Parcourir plus de produits</a>
                         </div>
                     </div>
                 </div>
                 <div id="tab-3" class="tab-pane fade show p-0">
                     <div class="row g-4">
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-1.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Tomates fraîches</a>
+                                    <span class="text-primary me-1">250F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_tomate.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_tomate.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-2.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Ananas</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_ananas.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_ananas.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-3.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Piment</a>
+                                    <span class="text-primary me-1">200F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_piment.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_piment.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-4.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Fraise</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_fraize.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_fraize.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-5.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Concombre</a>
+                                    <span class="text-primary me-1">300F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_concombre.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_concombre.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-6.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="details_tomatemur.php">Tomate Mûr</a>
+                                    <span class="text-primary me-1">275F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_tomatemur.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
@@ -699,50 +699,50 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-7.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Pomme de Terre</a>
+                                    <span class="text-primary me-1">300F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_pommeterre.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_pommeterre.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-8.jpg" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    <a class="d-block h5 mb-2" href="">Banane</a>
+                                    <span class="text-primary me-1">350F</span>
+                                    <span class="text-body"> / Kilogramme (kg)</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
+                                        <a class="text-body" href="details_banane.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                        <a class="text-body" href="details_banane.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
                                     </small>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 text-center">
-                            <a class="btn btn-primary rounded-pill py-3 px-5" href="">Browse More Produits</a>
+                        <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
+                            <a class="btn btn-primary rounded-pill py-3 px-5" href="produit.php">Parcourir plus de produits</a>
                         </div>
                     </div>
                 </div>

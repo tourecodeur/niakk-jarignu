@@ -131,7 +131,7 @@
 
             <div class="col-lg-7 h-auto mb-30">
                 <div class="h-100 bg-light p-30">
-                    <h3>Product Name Goes Here</h3>
+                    <h3>Piment</h3>
                     <div class="d-flex mb-3">
                         <div class="text-primary mr-2">
                             <small class="fas fa-star"></small>
@@ -142,7 +142,7 @@
                         </div>
                         <small class="pt-1">(99 Avis)</small>
                     </div>
-                    <h3 class="font-weight-semi-bold mb-4">$150.00</h3>
+                    <h3 class="font-weight-semi-bold mb-4">200Fcfa<span> / kilogramme (kg)</span></h3>
                     <p class="mb-4">Volup erat ipsum diam elitr rebum et dolor. Est nonumy elitr erat diam stet sit
                         clita ea. Sanc ipsum et, labore clita lorem magna duo dolor no sea
                         Nonumy</p>
@@ -156,7 +156,7 @@
                         <strong class="text-dark mr-3">Poids :</strong>
                     </div>
                     <div class="d-flex mb-3">
-                        <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5">Commander</a>
+                        <a href="form_commande.php" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5">Commander</a>
                     </div>
                     <div class="d-flex pt-2">
                         <strong class="text-dark mr-2">Partager sur :</strong>
