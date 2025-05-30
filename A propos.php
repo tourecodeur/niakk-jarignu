@@ -79,7 +79,7 @@
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-shopping-bag text-body"></small>
                     </a> -->
-                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
+                    <a href="contact.php" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
                 </div>
             </div>
         </nav>
@@ -106,18 +106,18 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                        <img class="img-fluid w-100" src="img/about.jpg">
-                    </div>
-                </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <h1 class="display-5 mb-4">Best Organic Fruits And Vegetables</h1>
                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5 mt-3" href="">Voir plus</a>
+                    <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="about-img position-relative overflow-hidden p-2 pe-5">
+                        <img class="img-fluid w-100" src="img/culture.jpg" style="height:450px;">
+                    </div>
                 </div>
             </div>
         </div>
@@ -130,11 +130,11 @@
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-md-7 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-5 text-white mb-3">Visit Our Firm</h1>
+                    <h1 class="display-5 text-white mb-3">Rencontrez notre équipe</h1>
                     <p class="text-white mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
                 </div>
                 <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="">Visit Now</a>
+                    <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="contact.php">Prendre un rendez-vous</a>
                 </div>
             </div>
         </div>
@@ -196,7 +196,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Infos contact</h4>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar, sébégal</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar - sénégal</p>
                     <p><i class="fa fa-phone-alt me-3"></i>+221 78 678 90 20</p>
                     <p><i class="fa fa-envelope me-3"></i>niakkjarignu@gmail.com</p>
                 </div>

@@ -79,7 +79,7 @@
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-shopping-bag text-body"></small>
                     </a> -->
-                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
+                    <a href="contact.php" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
                 </div>
             </div>
         </nav>
@@ -112,7 +112,7 @@
                 <div class="col-lg-5 col-md-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="bg-primary text-white d-flex flex-column justify-content-center h-100 p-5">
                         <h5 class="text-white">Téléphone</h5>
-                        <p class="mb-5"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
+                        <p class="mb-5"><i class="fa fa-phone-alt me-3"></i>+221 78 678 90 20</p>
                         <h5 class="text-white">Email</h5>
                         <p class="mb-5"><i class="fa fa-envelope me-3"></i>niakkjarignu@gmail.com</p>
                         <h5 class="text-white">Adresse</h5>
@@ -191,7 +191,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Infos contact</h4>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar, sébégal</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar - sénégal</p>
                     <p><i class="fa fa-phone-alt me-3"></i>+221 78 678 90 20</p>
                     <p><i class="fa fa-envelope me-3"></i>niakkjarignu@gmail.com</p>
                 </div>

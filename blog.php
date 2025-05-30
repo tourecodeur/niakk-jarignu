@@ -224,7 +224,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Infos contact</h4>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar, sébégal</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar - sénégal</p>
                     <p><i class="fa fa-phone-alt me-3"></i>+221 78 678 90 20</p>
                     <p><i class="fa fa-envelope me-3"></i>niakkjarignu@gmail.com</p>
                 </div>

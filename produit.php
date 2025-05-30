@@ -79,7 +79,7 @@
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-shopping-bag text-body"></small>
                     </a> -->
-                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
+                    <a href="contact.php" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 ms-3">Contactez-nous</a>
                 </div>
             </div>
         </nav>
@@ -133,21 +133,20 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-1.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center px-4 py-2">
+                                <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_tomate.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href="details_tomate.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -155,21 +154,20 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-2.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center  px-4 py-2">
+                                <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_ananas.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href="details_ananas.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -177,21 +175,20 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-3.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center  px-4 py-2">
+                                <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_niebe.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href="details_niebe.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -199,21 +196,20 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-4.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center  px-4 py-2">
+                                <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_fraize.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href="details_fraize.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -221,21 +217,20 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-5.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center  px-4 py-2">
+                                <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_concombre.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href="details_concombre.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -243,21 +238,20 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-6.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center  px-4 py-2">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
+                                <div class="text-center p-4">
+                                    <a class="d-block h5 mb-2" href="details_tomatemur.php">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_tomatemur.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -265,21 +259,20 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-7.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center  px-4 py-2">
+                                <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_pommeterre.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href="details_pommeterre.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
@@ -287,26 +280,25 @@
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
                                     <img class="img-fluid w-100" src="img/product-8.jpg" alt="">
-                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Nouveau</div>
                                 </div>
-                                <div class="text-center  px-4 py-2">
+                                <div class="text-center p-4">
                                     <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
                                     <span class="text-primary me-1">$19.00</span>
                                     <span class="text-body text-decoration-line-through">$29.00</span>
                                 </div>
-                                <div class="d-flex">
-                                    <!-- <small class="w-50 text-center border-end py-2">
-                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href="details_banane.php"><i class="fa fa-eye text-primary me-2"></i>Voir Détails</a>
                                     </small>
                                     <small class="w-50 text-center py-2">
-                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
-                                    </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                        <a class="text-body" href="details_banane.php"><i class="fa fa-shopping-bag text-primary me-2"></i>Acheter</a>
+                                    </small>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
-                            <a class="btn btn-primary rounded-pill py-3 px-5" href="">Browse More Produits</a>
+                            <a class="btn btn-primary rounded-pill py-3 px-5" href="">Parcourir plus de produits</a>
                         </div>
                     </div>
                 </div>
@@ -330,7 +322,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -352,7 +344,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -374,7 +366,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -396,7 +388,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -418,7 +410,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -440,7 +432,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -462,7 +454,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -484,7 +476,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -513,7 +505,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -535,7 +527,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -557,7 +549,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -579,7 +571,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -601,7 +593,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -623,7 +615,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -645,7 +637,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -667,7 +659,7 @@
                                     <small class="w-50 text-center py-2">
                                         <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
                                     </small> -->
-                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Commander</a>
+                                    <a href="" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5 my-2 ms-4">Acheter</a>
                                 </div>
                             </div>
                         </div>
@@ -773,7 +765,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Infos contact</h4>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar, sébégal</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>15001, Dakar - sénégal</p>
                     <p><i class="fa fa-phone-alt me-3"></i>+221 78 678 90 20</p>
                     <p><i class="fa fa-envelope me-3"></i>niakkjarignu@gmail.com</p>
                 </div>
