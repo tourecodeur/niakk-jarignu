@@ -143,18 +143,7 @@
                         <small class="pt-1">(99 Avis)</small>
                     </div>
                     <h3 class="font-weight-semi-bold mb-4">300Fcfa<span> / kilogramme (kg)</span></h3>
-                    <p class="mb-4">Volup erat ipsum diam elitr rebum et dolor. Est nonumy elitr erat diam stet sit
-                        clita ea. Sanc ipsum et, labore clita lorem magna duo dolor no sea
-                        Nonumy</p>
-                    <div class="d-flex mb-3">
-                        <strong class="text-dark mr-3">Catégorie :</strong>
-                    </div>
-                    <div class="d-flex mb-3">
-                        <strong class="text-dark mr-3">Prix Unitaire :</strong>
-                    </div>
-                    <div class="d-flex mb-3">
-                        <strong class="text-dark mr-3">Poids :</strong>
-                    </div>
+                    <p class="mb-4">Les produits sont issus d’une agriculture biologique respectueuse de l’environnement, sans pesticides ni produits chimiques.</p>
                     <div class="d-flex mb-3">
                         <a href="form_commande.php" class="btn btn-secondary rounded-pill py-sm-2 px-sm-5">Commander</a>
                     </div>
@@ -189,7 +178,8 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h3 class="fw-bold text-primary mb-4">NIAKK<span class="text-secondary"> JARIGNU</span></h3>
-                    <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
+                    <p style="text-align:justify">Niakk Jarignu s’appuie sur une équipe complémentaire, unissant diverses compétences
+                         pour offrir des produits sains et durables.</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -213,7 +203,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p>Inscrivez-vous à notre newsletter, ne manquez rien de l’univers du bio !</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Votre email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">S'inscrire</button>
@@ -236,7 +226,6 @@
         </div>
     </div>
     <!-- Footer End -->
-
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>

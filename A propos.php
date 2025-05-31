@@ -106,14 +106,18 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s" style="text-align:justify;">
                     <h1 class="display-5 mb-4">Meilleurs fruits et légumes biologiques</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
+                    <p class="mb-4">Niakk Jarignu est une entreprise engagée dans la production de produits 
+                        agricoles 100% biologiques et leur transformation en aliments sains, naturels et 
+                        respectueux de l’environnement. Nous croyons en une agriculture durable qui préserve 
+                        la santé des consommateurs, la fertilité des sols et le bien-être des générations 
+                        futures.</p>
+                    <p><i class="fa fa-check text-primary me-3"></i>Respect de la saisonnalité</p>
+                    <p><i class="fa fa-check text-primary me-3"></i> Origine garantie</p>
+                    <p><i class="fa fa-check text-primary me-3"></i> Zéro ajout artificiel</p>
+                    <p><i class="fa fa-check text-primary me-3"></i> Impact local positif</p>
+                    <p><i class="fa fa-check text-primary me-3"></i> Emballages responsables</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img position-relative overflow-hidden p-2 pe-5">
@@ -132,7 +136,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-md-7 wow fadeIn" data-wow-delay="0.1s">
                     <h1 class="display-5 text-white mb-3">Rencontrez notre équipe</h1>
-                    <p class="text-white mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
+                    <p class="text-white mb-0">Chez BioTerre Agro, notre force réside dans une équipe passionnée, engagée et complémentaire.</p>
                 </div>
                 <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
                     <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="contact.php">Prendre un rendez-vous</a>
@@ -147,31 +151,32 @@
     <div class="container-fluid bg-light bg-icon my-5 py-6">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-5 mb-3">Notre Mission</h1>
-                <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
+                <h1 class="display-5 mb-3">Nos valeurs</h1>
+                <p>Devenir un acteur de référence dans l’agriculture biologique et la transformation agroalimentaire durable en Afrique de l’Ouest,
+                     en inspirant un changement positif dans les modes de consommation et de production.</p>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="img/icon-1.png" alt="">
-                        <h4 class="mb-3">Processus naturel</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
+                        <h4 class="mb-3">Durabilité</h4>
+                        <p class="mb-4">Respect de l’environnement et des cycles naturels.</p>
 
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="img/icon-2.png" alt="">
-                        <h4 class="mb-3">Produits biologiques</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
+                        <h4 class="mb-3">Qualité et transparence</h4>
+                        <p class="mb-4"> Produits sains, traçables et sans additifs chimiques.</p>
 
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="bg-white text-center h-100 p-4 p-xl-5">
                         <img class="img-fluid mb-4" src="img/icon-3.png" alt="">
-                        <h4 class="mb-3">Biologiquement sûr</h4>
-                        <p class="mb-4">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed vero dolor duo.</p>
+                        <h4 class="mb-3">Éthique</h4>
+                        <p class="mb-4">Respect de la nature, de l’humain et des générations futures.</p>
 
                     </div>
                 </div>
@@ -187,7 +192,8 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h3 class="fw-bold text-primary mb-4">NIAKK<span class="text-secondary"> JARIGNU</span></h3>
-                    <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
+                    <p style="text-align:justify">Niakk Jarignu s’appuie sur une équipe complémentaire, unissant diverses compétences
+                         pour offrir des produits sains et durables.</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -211,7 +217,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p>Inscrivez-vous à notre newsletter, ne manquez rien de l’univers du bio !</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Votre email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">S'inscrire</button>
