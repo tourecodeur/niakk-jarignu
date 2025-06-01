@@ -126,7 +126,7 @@
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
-                    <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p>
+                    <p class="mb-4">Nous serons ravis de vous répondre dans les plus brefs délais, que ce soit pour en savoir plus sur nos produits, nos points de vente, nos partenariats ou notre démarche biologique.</p>
                     <form action="traitement_contact.php" method="post" autocomplete="off">
                         <div class="row g-3">
                             <div class="col-md-6">
